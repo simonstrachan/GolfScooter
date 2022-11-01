@@ -1,0 +1,19 @@
+5x Golf Scooter boards 1 and 2 assembled by JLCPCB.
+2x Golf Scooter board 3 assembled by JLCPCB.
+3x Golf Scooter board 3 self-assembled.
+
+Golf Scooter board 3.1
+R1 - 0.7mm solder used
+C1 - 10uF (marked 22uF)
+Continuity good
+Resistance good
+
+Golf Scooter board 3.2
+C1 - 10uF (marked 22uF)
+Continuity good
+Resistance good
+
+Golf Scooter board 3.1
+C1 - 10uF (marked 22uF)
+Continuity good
+Resistance good
